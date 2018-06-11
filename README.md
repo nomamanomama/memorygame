@@ -20,5 +20,5 @@ is reset. To begin a new round, click any image. The top score is recorded so th
 * gh-pages
 
 ## Demo
-[Live Demo!](https://drive.google.com/file/d/1wZZuiOc-C1U00aRT1A9geGwI1iYMjJ7l/view)
+![Live Demo!](./demo.gif)
 
